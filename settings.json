@@ -1,1 +1,7 @@
-
+{
+  "ip": "strawberry.fps.ms",
+  "port": 25908,
+  "name": "AFK_Bot",
+  "version": "1.20.1",
+  "auth": "offline"
+}
