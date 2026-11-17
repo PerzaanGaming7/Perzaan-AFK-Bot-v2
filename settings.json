@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
-    "version": "1.21.1"
+    "ip": "Dadismp-MmOe.aternos.me:39353",
+    "port": 39353,
+    "version": "1.26.3"
   },
   "position": {
     "enabled": true,
